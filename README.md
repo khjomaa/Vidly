@@ -21,12 +21,13 @@ This will launch a server at port 3000. If port is used, you can set a different
 ### Environment Variables
 On Mac:
 
-`export vidly_jwtPrivateKey=<your secure key>`
-`export vidly_db=<Your MongoDB URL>`
+* `export vidly_jwtPrivateKey=<your secure key>`
+* `export vidly_db=<Your MongoDB URL>`
+
 On windows:
 
-`set vidly_jwtPrivateKey=<your secure key>`
-`set vidly_db=<Your MongoDB URL>`
+* `set vidly_jwtPrivateKey=<your secure key>`
+* `set vidly_db=<Your MongoDB URL>`
 
 ### Routes:
 * Users:
